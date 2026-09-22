@@ -2,17 +2,17 @@
 
 # ⚡ MostCoreX (v1.0.0 Beta)
 ### The Ultimate In-Game Hardware Overlay & Esports Performance Optimizer
-**برنامج مراقبة الأداء وتحسين استجابة الألعاب الاحترافي**
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ahmed150up/MostCoreX-Setup)
 [![Version](https://img.shields.io/badge/Version-1.0.0--Beta-00e5ff?style=for-the-badge)](https://github.com/ahmed150up/MostCoreX-Setup/releases)
+[![Overhead](https://img.shields.io/badge/CPU%20Overhead-%3C%200.05%25-brightgreen?style=for-the-badge)](https://github.com/ahmed150up/MostCoreX-Setup)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Developer](https://img.shields.io/badge/Developer-Ahmed%20Mostafa%20(ahmed150up)-ff007f?style=for-the-badge)](https://ahmed150up.com)
 
 <br/>
 
 <a href="https://github.com/ahmed150up/MostCoreX-Setup/releases/download/v1.0.0-beta/MostCoreX-Setup-1.0.0-beta.exe">
-  <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-MostCoreX%20Setup%20(83%20MB)-00e5ff?style=for-the-badge&logo=windows&logoColor=black" height="50" alt="Download MostCoreX Setup" />
+  <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-MostCoreX%20Setup%20(83%20MB)-00e5ff?style=for-the-badge&logo=windows&logoColor=black" height="52" alt="Download MostCoreX Setup" />
 </a>
 
 <p align="center">
@@ -24,88 +24,86 @@
 
 </div>
 
-## 📖 نبذة عن البرنامج (About MostCoreX)
+## 🎮 Overview
 
-**MostCoreX** هو تطبيق ويندوز فائق الخفة والسرعة مصمم خصيصاً للاعبي الرياضات الإلكترونية (Esports) والمهتمين بأقصى أداء ممكن أثناء اللعب.
-يوفر البرنامج شاشة عرض شفافة داخل الألعاب (In-Game HUD Overlay) تعرض إحصائيات المعالج (CPU)، والرام (RAM)، وكارت الشاشة (GPU)، ومعدل الإطارات (FPS) لحظياً وبدون أي تأثير على الفريمات إطلاقاً مع استهلاك موارد أقل من **0.05%** من المعالج.
+**MostCoreX** is an ultra-lightweight, high-performance in-game hardware monitoring overlay and system optimizer engineered specifically for competitive gamers, streamers, and hardware enthusiasts.
 
-بالإضافة إلى ذلك، يحتوي البرنامج على منظف ذكي لذاكرة التخزين المؤقت (Standby RAM Cache Cleaner) ومحسن أولوية المعالجة للألعاب لتسريع استجابة النظام وتقليل الـ Stuttering والـ Input Lag.
-
----
-
-## ✨ المميزات الرئيسية (Key Features)
-
-### 1. 🎮 شاشة عرض شفافة غير حاجبة للماوس (Click-Through In-Game HUD)
-* تعمل بتقنية الشفافية الكاملة وتمرير النقرات (`Mouse Click-Through`)، مما يضمن أن حركة الماوس ونقرات التصويب أثناء ألعاب الشوتر والأكشن (Valorant, CS2, Fortnite, Warzone) لا تخرج من اللعبة ولا تتعطل نهائياً.
-* لا تظهر في شريط المهام (Taskbar) أثناء اللعب لتبقى بيئة سطح المكتب نظيفة تماماً.
-
-### 2. 📊 مراقبة لحظية دقيقة للعتاد (Real-time Telemetry)
-* **حرارة واستخدام المعالج (CPU Temp & Usage)**: قراءة دورية فورية لدرجة حرارة الأنوية ونسبة الضغط.
-* **استهلاك الرامات (RAM Usage & Speed)**: متابعة حية لمقدار الرام المستهلك والمتاح وسرعة الذاكرة.
-* **كارت الشاشة (GPU Monitoring)**: متابعة استخدام معالج الرسوميات وحرارته.
-* **عداد الفريمات (FPS Counter)**: قراءة فورية لسلاسة الألعاب.
-
-### 3. ⚡ منظف الكاش ومسرع الألعاب (Smart RAM Cleaner & Process Booster)
-* **تنظيف كاش الرام الفوري**: إفراغ الـ Standby List والذاكرة المؤقتة لنظام ويندوز بأمان تام وبدون إغلاق أي لعبة أو تطبيق.
-* **رفع أولوية اللعبة (Priority Booster)**: تخصيص أولوية معالجة قصوى (`HIGH_PRIORITY_CLASS`) لعملية اللعبة النشطة لمنحها أسبقية استخدام مسارات المعالج وتقليل تقطيع الإطارات (Framerate Drops).
-
-### 4. 🎨 تخصيص كامل للمظهر والموقع (Themes & Screen Positioning)
-* **6 ثيمات ألوان احترافية**:
-  - 🔵 **Cyber Blue** (الأزرق السيبراني الكلاسيكي)
-  - 🟢 **Neon Emerald** (أخضر النيون الرياضي)
-  - 🟠 **Sunset Orange** (البرتقالي الناري)
-  - 🔴 **Dark Crimson** (الأحمر القرمزي للجيمنج)
-  - ⚪ **Minimalist White** (الأبيض البسيط والأنيق)
-  - ⬛ **Borderless Pure** (بدون خلفية لإظهار الأرقام المضيئة فقط فوق شاشة اللعبة)
-* **6 خيارات لتثبيت موقع الـ HUD على الشاشة**:
-  - أعلى اليسار (Top-Left)
-  - أعلى المنتصف (Top-Center)
-  - أعلى اليمين (Top-Right)
-  - أسفل اليسار (Bottom-Left)
-  - أسفل المنتصف (Bottom-Center)
-  - أسفل اليمين (Bottom-Right)
-
-### 5. 🔄 نظام التحديثات التلقائية (Auto-Updater)
-* فحص دوري وسلس للتحديثات في الخلفية مع شريط تقدم مباشر لسرعة التحميل، وإمكانية التثبيت الفوري بنقرة واحدة.
-
-### 6. 🖥️ اندماج كامل مع نظام ويندوز (Windows Tray & Startup)
-* تشغيل صامت في شريط المهام بجانب الساعة (System Tray).
-* دعم التشغيل التلقائي مع إقلاع الويندوز (Start with Windows).
+Unlike bloated monitoring tools, MostCoreX runs with near-zero CPU footprint (**< 0.05% CPU**) and utilizes hardware-accelerated transparency with **true mouse click-through technology**, guaranteeing your crosshair, aim, and mouse inputs are never interrupted in competitive games like *Valorant, Counter-Strike 2, Fortnite, Apex Legends, and Call of Duty: Warzone*.
 
 ---
 
-## 📥 طريقة التحميل والتثبيت (Installation Guide)
+## ✨ Key Features
 
-1. قم بتحميل أحدث إصدار من مثبت البرنامج عبر الرابط المباشر:
-   👉 **[تحميل MostCoreX Setup 1.0.0-beta.exe](https://github.com/ahmed150up/MostCoreX-Setup/releases/download/v1.0.0-beta/MostCoreX-Setup-1.0.0-beta.exe)**
-2. شغل ملف التثبيت واتبع خطوات معالج التثبيت (NSIS Installer).
-3. اختر مسار التثبيت المفضل ودع المعالج ينشئ لك اختصاراً على سطح المكتب وقائمة Start.
-4. افتح البرنامج من سطح المكتب، خصص الثيم والموقع الذي يناسبك، ثم انطلق داخل ألعابك المفضلة!
+### 1. 🎯 True Click-Through In-Game HUD
+* **Zero Mouse Capture**: Incorporates seamless native click-through forwarding (setIgnoreMouseEvents). Your mouse clicks pass directly into the game without window boundary restrictions.
+* **Non-Intrusive Taskbar**: The HUD runs completely headless without cluttering your Windows taskbar.
+* **Always-on-Top Hardware Layering**: Stays cleanly pinned on top of borderless and windowed games.
+
+### 2. 📊 Real-Time Hardware Telemetry
+* **CPU Monitoring**: Live core temperatures, utilization percentages, and clock frequencies.
+* **RAM Diagnostics**: Active physical memory load, available RAM headroom, and speed.
+* **GPU Metrics**: Core clock speeds, temperature monitoring, and graphical load.
+* **FPS Counter**: High-accuracy in-game framerate tracker to detect frame pacing issues and micro-stutters.
+
+### 3. ⚡ Smart Memory Cleaner & Process Booster
+* **Standby List Cache Cleaner**: Safely flushes the Windows standby memory cache and working sets on-demand without killing active applications or game processes.
+* **Process Priority Optimizer**: Instantly elevates your game's process priority to HIGH_PRIORITY_CLASS, ensuring Windows thread schedulers prioritize game rendering threads over background tasks.
+
+### 4. 🎨 6 Handcrafted Themes & 6 Screen Positions
+* **Presets tailored for every gamer setup**:
+  - 🔵 **Cyber Blue**: Iconic neon blue esports aesthetic.
+  - 🟢 **Neon Emerald**: High-visibility radioactive green.
+  - 🟠 **Sunset Orange**: Fiery amber glow.
+  - 🔴 **Dark Crimson**: Aggressive deep crimson gaming red.
+  - ⚪ **Minimalist White**: Clean, distraction-free monochrome.
+  - ⬛ **Borderless Pure**: Zero background panel—only floating glowing numbers.
+* **Multi-Monitor Friendly Placement**: Anchor to *Top-Left*, *Top-Center*, *Top-Right*, *Bottom-Left*, *Bottom-Center*, or *Bottom-Right* in 1-click.
+
+### 5. 🔄 Production-Ready Auto Updater
+* Built-in differential update engine via GitHub Releases. The app periodically checks for updates silently and allows 1-click download & installation with live bandwidth and progress tracking.
+
+### 6. 🖥️ Native Windows System Tray Integration
+* Operates quietly in the Windows notification tray with instant right-click controls:
+  - Toggle HUD on/off
+  - Launch Clean RAM Cache
+  - Start with Windows (Auto-boot toggle)
+  - Quick Links to Official Site & Support
 
 ---
 
-## 💻 متطلبات التشغيل (System Requirements)
+## 📥 Installation & Getting Started
 
-| المتطلب | الحد الأدنى | الموصى به |
+1. Download the latest official Windows installer:
+   👉 **[Download MostCoreX Setup 1.0.0-beta.exe](https://github.com/ahmed150up/MostCoreX-Setup/releases/download/v1.0.0-beta/MostCoreX-Setup-1.0.0-beta.exe)**
+2. Run the installer and choose your preferred installation directory.
+3. Launch **MostCoreX** from your Desktop or Start Menu shortcut.
+4. Customize your favorite theme and HUD position from the Dashboard.
+5. Launch your game and enjoy real-time performance telemetry!
+
+---
+
+## 💻 System Specifications
+
+| Specification | Minimum Requirement | Recommended |
 | :--- | :--- | :--- |
-| **نظام التشغيل** | Windows 10 (64-bit) | Windows 11 (64-bit) |
-| **المعالج (CPU)** | Intel Core i3 / AMD Ryzen 3 | Intel Core i5 / AMD Ryzen 5 فما فوق |
-| **الذاكرة (RAM)** | 4 GB | 8 GB أو أكثر |
-| **استهلاك البرنامج** | **< 60 MB RAM** | **< 0.05% CPU** |
-| **المساحة التخزينية** | 150 MB مساحة فارغة | SSD لأفضل سرعة إقلاع |
+| **Operating System** | Windows 10 (64-bit, 1909+) | Windows 11 (64-bit, latest) |
+| **Processor (CPU)** | Intel Core i3 / AMD Ryzen 3 | Intel Core i5 / AMD Ryzen 5 or better |
+| **Memory (RAM)** | 4 GB | 8 GB or higher |
+| **App Footprint** | **< 60 MB RAM** | **< 0.05% CPU Overhead** |
+| **Storage** | 150 MB available space | Fast NVMe / SSD |
 
 ---
 
-## 👨‍💻 المطور وحقوق الملكية (Author & Credits)
+## 👨‍💻 Developer & Credits
 
-تم تطوير وتصميم البرنامج بالكامل بواسطة المطور:
-* **أحمد مصطفى (Ahmed Mostafa - ahmed150up)**
-* 🌐 الموقع الرسمي للبرنامج: [mostcorex.ahmed150up.com](https://mostcorex.ahmed150up.com)
-* 💼 الموقع الشخصي: [ahmed150up.com](https://ahmed150up.com)
-* 🐙 مستودع الإصدارات: [github.com/ahmed150up/MostCoreX-Setup](https://github.com/ahmed150up/MostCoreX-Setup)
+Engineered and designed with passion by:
+* **Ahmed Mostafa (ahmed150up)**
+* 🌐 **Official Website:** [mostcorex.ahmed150up.com](https://mostcorex.ahmed150up.com)
+* 💼 **Personal Portfolio:** [ahmed150up.com](https://ahmed150up.com)
+* 📦 **Distribution Repository:** [github.com/ahmed150up/MostCoreX-Setup](https://github.com/ahmed150up/MostCoreX-Setup)
 
 ---
 
 <div align="center">
-  <p>Copyright © 2026 Ahmed Mostafa (ahmed150up). All Rights Reserved.</p>
+  <p>Copyright © 2026 Ahmed Mostafa (ahmed150up). Released under the MIT License.</p>
 </div>
