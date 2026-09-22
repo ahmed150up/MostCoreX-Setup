@@ -1,0 +1,8 @@
+version: 1.0.0-beta
+files:
+  - url: MostCoreX-Setup-1.0.0-beta.exe
+    sha512: 4lRMrGOE4AcL8qaeaX6Q9P4fyD65C+rG50qfRAPeaKXCdEW+3H1PBOnya4XycFt7wPmYaG1m/2XtVK076UdgYQ==
+    size: 83178198
+path: MostCoreX-Setup-1.0.0-beta.exe
+sha512: 4lRMrGOE4AcL8qaeaX6Q9P4fyD65C+rG50qfRAPeaKXCdEW+3H1PBOnya4XycFt7wPmYaG1m/2XtVK076UdgYQ==
+releaseDate: '2026-09-22T15:01:52.358Z'
